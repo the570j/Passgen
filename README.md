@@ -31,15 +31,14 @@
 #### Windows CMD (with Git installed)
 
 ```cmd
-git clone https://github.com/yourusername/Passgen.git
+git clone https://github.com/the570j/Passgen
 cd Passgen
 pip install -r requirements.txt
 python Passgen.py
 
 Windows CMD (without Git)
 
-    Download ZIP from the GitHub repo:
-    https://github.com/yourusername/Passgen
+    Download ZIP from the GitHub repo: https://github.com/the570j/Passgen
 
     Extract the ZIP and open CMD in that folder
 
